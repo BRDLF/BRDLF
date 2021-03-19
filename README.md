@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CRMPLZN
+- 👀 I’m interested in hobby electronics
+- 🌱 I’m currently learning Arduino & C++
+- 💞️ I’m not looking to collaborate on anything at theh moment
+- 📫 How to reach me?  Uhhhm,,, don't
