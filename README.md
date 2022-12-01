@@ -1,6 +1,6 @@
 Hi!
 
-I'm Abigail! You can call me Abby if you'd like.
+My name is Abigail. Call me Abby!
 
 I like doing little coding projects. 
 You can find them here!
